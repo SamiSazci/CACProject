@@ -37,12 +37,12 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1970.2290076335878" y="3.5211267605633805"/>
+            <point key="canvasLocation" x="1914" y="17"/>
         </scene>
         <!--Course Rec-->
         <scene sceneID="nsC-zv-VhD">
             <objects>
-                <viewController id="UVd-0i-jRh" sceneMemberID="viewController">
+                <viewController id="UVd-0i-jRh" customClass="courseViewController" customModule="CACProject" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="y7t-CM-28Y">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -95,6 +95,7 @@
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="OuK-fC-530" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="dIb-qc-geG">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <color key="selectedImageTintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
