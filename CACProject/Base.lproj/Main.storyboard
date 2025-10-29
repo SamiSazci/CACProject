@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23094" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="OuK-fC-530">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23094" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23084"/>
         <capability name="Image references" minToolsVersion="12.0"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="UIMenu" message="Requires Xcode 11 or later." minToolsVersion="11.0" requiredIntegratedClassName="UICommandDiff"/>
@@ -33,13 +34,27 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CFC-zb-fe7">
+                                <rect key="frame" x="174" y="565" width="46" height="35"/>
+                                <color key="backgroundColor" name="AccentColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Go">
+                                    <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <segue destination="OuK-fC-530" kind="presentation" modalPresentationStyle="fullScreen" modalTransitionStyle="coverVertical" id="fXn-3J-vnm"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstAttribute="bottom" secondItem="L7O-Q2-36q" secondAttribute="bottom" id="C1n-Vz-3RM"/>
+                            <constraint firstItem="CFC-zb-fe7" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="174" id="OZy-vc-pjI"/>
                             <constraint firstItem="L7O-Q2-36q" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Vgi-FN-tAx"/>
                             <constraint firstItem="L7O-Q2-36q" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="ba3-jj-jqy"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="CFC-zb-fe7" secondAttribute="trailing" constant="173" id="gE9-vU-xjT"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="CFC-zb-fe7" secondAttribute="bottom" constant="218" id="gd1-SJ-7Nf"/>
                             <constraint firstItem="L7O-Q2-36q" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="rGK-q8-PsP"/>
                         </constraints>
                     </view>
@@ -48,7 +63,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2809.9236641221373" y="-11.267605633802818"/>
+            <point key="canvasLocation" x="1966" y="-11"/>
         </scene>
         <!--Course Rec-->
         <scene sceneID="YKp-RB-FLo">
@@ -655,11 +670,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="DKP-od-d5A">
-                                <rect key="frame" x="0.0" y="109" width="393" height="660"/>
+                                <rect key="frame" x="0.0" y="50" width="393" height="753"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </tableView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Resources" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="J3I-6q-kjk">
-                                <rect key="frame" x="16" y="59" width="361" height="51"/>
+                                <rect key="frame" x="16" y="0.0" width="361" height="51"/>
                                 <fontDescription key="fontDescription" name="Papyrus" family="Papyrus" pointSize="33"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -691,6 +706,7 @@
             <objects>
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="OuK-fC-530" sceneMemberID="viewController">
                     <toolbarItems/>
+                    <navigationItem key="navigationItem" id="wX3-Zn-XRV"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="dIb-qc-geG">
                         <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -703,7 +719,6 @@
                         </userDefinedRuntimeAttributes>
                     </tabBar>
                     <connections>
-                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="z1B-9W-t44"/>
                         <segue destination="zu6-yd-PZn" kind="relationship" relationship="viewControllers" id="NHh-2r-saC"/>
                         <segue destination="Ej0-lV-UEd" kind="relationship" relationship="viewControllers" id="M0G-yd-qy1"/>
                         <segue destination="OpV-k8-69g" kind="relationship" relationship="viewControllers" id="iRs-Qn-GFe"/>
@@ -711,7 +726,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Kfy-7d-adm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2103" y="-11"/>
+            <point key="canvasLocation" x="2723" y="-11"/>
         </scene>
         <!--Course Rec-->
         <scene sceneID="Me1-Nj-i2q">
@@ -787,7 +802,7 @@
                     </tabBarItem>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="56o-ZH-mvt">
-                        <rect key="frame" x="0.0" y="59" width="393" height="44"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -990,14 +1005,14 @@
                             <tableViewSection headerTitle="Save" id="fry-yV-K5u">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" id="tyR-gg-goN">
-                                        <rect key="frame" x="0.0" y="416.66665840148926" width="393" height="35"/>
+                                        <rect key="frame" x="0.0" y="416.66665840148926" width="393" height="35.333332061767578"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="tyR-gg-goN" id="bER-sf-t6B">
-                                            <rect key="frame" x="0.0" y="0.0" width="393" height="35"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="393" height="35.333332061767578"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CA7-it-xEl">
-                                                    <rect key="frame" x="0.0" y="0.0" width="393" height="35"/>
+                                                    <rect key="frame" x="0.0" y="0.0" width="393" height="35.333333333333336"/>
                                                     <state key="normal" title="Button"/>
                                                     <buttonConfiguration key="configuration" style="plain" title="Save"/>
                                                     <connections>
@@ -1049,6 +1064,9 @@
         <image name="pencil.and.scribble" catalog="system" width="128" height="86"/>
         <image name="plus" catalog="system" width="128" height="113"/>
         <image name="target" catalog="system" width="128" height="123"/>
+        <namedColor name="AccentColor">
+            <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
