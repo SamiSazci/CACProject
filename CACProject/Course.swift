@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Course: Comparable{
+struct Course: Comparable, Codable{
     var courseName: String
     var numCredits: Int
     var numCreditHours: Double
