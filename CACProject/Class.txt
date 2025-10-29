@@ -1,0 +1,226 @@
+English I,English,No,2,9;Introduction to high school literature and composition. Develops reading comprehension and writing skills. Required for graduation and foundation for all future English courses.
+English I Pre-AP,English,No,3,9;Accelerated introduction to literature with emphasis on critical analysis and advanced writing. Prepares students for AP English track. Best for students planning to take AP English courses.
+English II,English,No,2,10;Continuation of literature study with focus on world literature and persuasive writing. Required for graduation. Builds on English I skills.
+English II Pre-AP,English,No,3,10;Advanced study of world literature with rhetorical analysis and argumentative writing. Prepares for AP English Language. Recommended for college-bound students.
+English III,English,No,3,11;American literature survey with research and composition focus. Required for graduation. Includes college application essay preparation.
+AP English Language,English,Yes,4,11;College-level rhetoric and composition course. Develops advanced analysis of non-fiction texts. Earns college credit with qualifying exam score. Essential for strong writers.
+IB English HL I,English,Yes,4,11;First year of two-year IB program studying world literature. Emphasizes critical analysis and comparative study. Required for IB Diploma candidates.
+English IV,English,No,3,12;British literature and senior composition. Final required English course. Includes career and college readiness writing.
+AP English Literature,English,Yes,5,12;College-level study of poetry, drama, and fiction. Deep literary analysis required. Earns college credit. Best for students passionate about literature.
+IB English HL II,English,Yes,5,12;Second year of IB English focusing on literary criticism and independent study. Completes IB Diploma requirement. Highly rigorous course.
+Creative Writing,English,No,2,10-12;Explores fiction, poetry, and creative non-fiction writing. Develops personal voice and style. Great for aspiring writers and creative thinkers.
+Journalism I,English,No,2,9-12;Introduction to news writing and media literacy. Learn interviewing and reporting basics. Foundation for school newspaper/yearbook involvement.
+Journalism II,English,No,2,10-12;Advanced news writing with focus on feature articles and editing. Work on school publications. Builds on Journalism I skills.
+Journalism III,English,No,3,11-12;Leadership roles in school publications with multimedia journalism. Develops editorial and production skills. For dedicated journalism students.
+Journalism IV,English,No,3,12;Senior-level publication management and advanced multimedia projects. Leadership in school media. Capstone for journalism pathway.
+Literary Magazine II,English,No,2,10-12;Create and publish school literary magazine. Study contemporary literature and design. For students interested in publishing and layout.
+Literary Magazine III,English,No,3,11-12;Advanced literary magazine production with editorial leadership. Curate student creative work. Develops editing and design expertise.
+Mythology,English,No,2,9-12;Study of world mythologies and their influence on literature. Explores archetypal stories and cultural narratives. Great for literature and history enthusiasts.
+Media Literacy,English,No,2,9-12;Critical analysis of media messages and digital citizenship. Learn to evaluate sources and create media. Essential for navigating modern information landscape.
+Debate I,English,No,2,9-12;Introduction to argumentation and public speaking. Learn debate formats and research skills. Builds confidence and critical thinking.
+Debate II,English,No,3,10-12;Competitive debate with advanced argumentation techniques. Participate in tournaments. Develops persuasive communication skills.
+Debate III,English,No,3,11-12;Advanced debate competition and coaching. Leadership in debate team. Excellent for pre-law and political science interests.
+Debate IV,English,No,4,12;Senior debate leadership with tournament competition. Mentor younger debaters. Strongest preparation for college debate and law.
+Forensics I,English,No,2,9-12;Performance-based public speaking including interpretation and oratory. Compete in speech tournaments. Builds presentation confidence.
+Forensics II,English,No,3,10-12;Advanced forensics competition across multiple speaking categories. Regional and state competition. Enhances communication skills.
+AP Seminar,English,Yes,4,10-11;First year of AP Capstone focusing on research and argumentation. Create multimedia presentation. Develops college-level research skills.
+AP Research,English,Yes,5,11-12;Independent research project on topic of choice. Write scholarly paper and defend findings. Completes AP Capstone Diploma. Best for future researchers.
+
+Algebra I,Mathematics,No,2,9;Foundation of algebraic concepts including equations and functions. Required for graduation. Essential for all future math courses.
+Geometry,Mathematics,No,2,9-10;Study of shapes, spatial reasoning, and geometric proofs. Required for graduation. Develops logical thinking and visual reasoning.
+Algebra II,Mathematics,No,3,10-11;Advanced algebra including quadratics, exponentials, and logarithms. Required for Smart Core graduation. Foundation for higher math.
+Advanced Algebra II,Mathematics,No,3,10-11;Accelerated Algebra II with deeper exploration of concepts. Prepares for Pre-AP Precalculus. For strong math students.
+Transitional Math Ready,Mathematics,No,2,11-12;Bridge course preparing students for college math. Focuses on practical applications. Alternative pathway for students struggling with Algebra II.
+Pre-AP Precalculus,Mathematics,No,3,11-12;Preparation for calculus including trigonometry and advanced functions. Foundation for AP Calculus. Required for STEM majors.
+AP Precalculus,Mathematics,Yes,4,11-12;College-level precalculus with weighted credit. Comprehensive preparation for calculus. Earns college credit with qualifying score.
+AP Calculus AB,Mathematics,Yes,5,11-12;College-level differential and integral calculus. Equivalent to first semester college calculus. Essential for engineering and science majors.
+AP Calculus BC,Mathematics,Yes,5,12;Advanced calculus covering two semesters of college material. Includes series and parametric equations. Highest level high school math.
+AP Statistics,Mathematics,Yes,4,11-12;College-level statistical analysis and probability. Real-world data applications. Valuable for all college majors and research.
+Algebra III,Mathematics,No,3,11-12;Extended algebra topics for students needing additional preparation. Alternative to precalculus. Fulfills fourth math credit.
+IB Math: Apps and Interpret I SL,Mathematics,Yes,4,11;First year IB math focusing on applications and modeling. Problem-solving emphasis. Part of IB Diploma program.
+IB Math: Apps and Interpret II SL,Mathematics,Yes,4,12;Second year IB math with real-world applications. Completes IB math requirement. Strong college preparation.
+College Algebra (NWACC),Mathematics,Yes,3,11-12;Dual credit college algebra taught by NWACC. Earns high school and college credit simultaneously. Good alternative to AP Calculus.
+College Prep Quantitative Reasoning,Mathematics,No,3,12;Practical math applications for college readiness. Alternative fourth math credit. Focuses on real-world problem solving.
+
+Physical Science,Science,No,2,9;Introduction to chemistry and physics concepts. Required first science course. Foundation for all science courses.
+Biology,Science,No,2,10;Study of living organisms and life processes. Required for graduation. Foundation for health sciences and advanced biology.
+Pre-AP Biology,Science,No,3,10;Accelerated biology with lab-intensive curriculum. Prepares for AP Biology. Recommended for students interested in life sciences.
+Chemistry,Science,No,3,11;Study of matter, reactions, and chemical principles. Required for many college programs. Strong math skills needed.
+Pre-AP Chemistry,Science,No,4,11;Rigorous chemistry preparing for AP Chemistry. Advanced lab work and calculations. For students planning science majors.
+Physics,Science,No,3,11-12;Study of motion, energy, and forces. Recommended for engineering track. Requires strong math background.
+AP Biology,Science,Yes,5,11-12;College-level biology with extensive lab work. Covers molecular to ecosystem levels. Excellent for pre-med and biology majors.
+AP Chemistry,Science,Yes,5,11-12;College-level chemistry with quantitative emphasis. Advanced lab techniques. Essential for chemistry and engineering majors.
+AP Physics 1,Science,Yes,4,11-12;Algebra-based mechanics and waves. First college physics course. Good for non-engineering science majors.
+AP Physics 2,Science,Yes,5,12;Algebra-based electricity, magnetism, and modern physics. Second college semester. Completes algebra-based physics sequence.
+AP Physics C,Science,Yes,5,12;Calculus-based mechanics for engineers. Most rigorous physics course. Required for engineering and physics majors.
+AP Environmental Science,Science,Yes,4,10-12;Study of environmental systems and human impact. Field and lab work. Great for environmental and earth science interests.
+IB Biology I,Science,Yes,5,11;First year two-year IB biology program. Extensive lab work and research. Part of IB Diploma.
+IB Biology II,Science,Yes,5,12;Completion of IB biology with independent investigation. Highest level biology course. Excellent college preparation.
+IB Physics I,Science,Yes,5,11;First year IB physics with comprehensive coverage. Extensive mathematical applications. For IB Diploma students.
+IB Physics II,Science,Yes,5,12;Second year IB physics completing the program. Advanced topics and research. Rigorous college preparation.
+Anatomy & Physiology,Science,No,3,11-12;Detailed study of human body systems. Hands-on dissections. Essential for nursing and health science careers.
+Astronomy,Science,No,2,9-12;Study of celestial objects and universe. Observational projects. Great for physics and space science interests.
+IB Environmental Systems,Science,Yes,4,11-12;IB course on ecosystems and sustainability. Field research emphasis. For environmentally-focused students.
+
+World History,Social Studies,No,2,9;Survey of world civilizations and cultures. Required for graduation. Foundation for understanding global perspectives.
+AP World History,Social Studies,Yes,4,9-10;College-level world history from 1200 CE to present. Develops historical thinking skills. Earns college credit.
+AP European History,Social Studies,Yes,4,10-12;In-depth study of European history since 1450. Advanced historical analysis. Great for history enthusiasts.
+US History,Social Studies,No,2,10-11;American history survey course. Required for graduation. Essential for citizenship and civic understanding.
+AP US History,Social Studies,Yes,4,10-11;College-level American history with document analysis. Rigorous writing and critical thinking. Highly regarded by colleges.
+Civics,Social Studies,No,2,11-12;Study of government, citizenship, and political systems. Required for graduation. Includes civics exam requirement.
+AP US Government and Politics,Social Studies,Yes,4,11-12;College-level study of American government institutions. Can substitute for Civics requirement. Excellent for political science majors.
+Economics,Social Studies,No,2,12;Introduction to economic principles and personal finance. Required for graduation. Includes financial literacy requirement.
+AP Microeconomics,Social Studies,Yes,4,11-12;College-level study of individual economic decisions. Can substitute for Economics with Macro. Valuable for business majors.
+AP Macroeconomics,Social Studies,Yes,4,11-12;College-level study of national and global economics. Often paired with Micro. Essential for economics majors.
+AP Psychology,Social Studies,Yes,3,10-12;Introduction to psychological science and human behavior. Very popular AP course. Great for psychology and social science majors.
+AP Human Geography,Social Studies,Yes,3,9-12;Study of human populations and cultural patterns. Accessible AP course. Good for geography and cultural studies interests.
+IB World Religions,Social Studies,Yes,3,11-12;Comparative study of major world religions. Cultural and philosophical exploration. Valuable for global understanding.
+
+Spanish I,World Language,No,2,9-12;Introduction to Spanish language and Hispanic cultures. Foundation for language proficiency. Two years recommended for college.
+Spanish II,World Language,No,2,9-12;Continued Spanish study with increased communication. Builds conversational skills. Required for Honors graduation.
+Spanish III,World Language,No,3,10-12;Advanced Spanish with literature and composition. Near-fluent communication. Strong college preparation.
+AP Spanish Language,World Language,Yes,4,11-12;College-level Spanish focusing on communication. Requires high proficiency. Earns college credit and demonstrates fluency.
+AP Spanish Literature,World Language,Yes,5,12;Advanced study of Spanish and Latin American literature. Requires near-native proficiency. For highly advanced students.
+French I,World Language,No,2,9-12;Introduction to French language and Francophone cultures. Beginning language study. Foundation for French proficiency.
+French II,World Language,No,2,9-12;Continued French with expanded communication skills. Conversational development. Required for Honors graduation in French.
+French III,World Language,No,3,10-12;Advanced French language and culture. Strong communication skills. Preparation for AP French.
+AP French Language,World Language,Yes,4,11-12;College-level French communication and culture. High proficiency required. Demonstrates advanced language ability.
+German I,World Language,No,2,9-12;Introduction to German language and culture. Beginning language study. Less commonly offered language advantage.
+German II,World Language,No,2,9-12;Continued German language development. Builds communication skills. Required for Honors graduation in German.
+German III,World Language,No,3,10-12;Advanced German language study. Near-fluent communication. Strong college preparation for German studies.
+Chinese I,World Language,No,2,9-12;Introduction to Mandarin Chinese language and culture. Character writing and basic communication. Valuable for global business.
+Chinese II,World Language,No,3,10-12;Continued Chinese language study with advanced characters. Conversational proficiency development. Growing career advantage.
+Latin I,World Language,No,2,9-12;Introduction to Latin language and Roman culture. Classical language study. Enhances English vocabulary and grammar.
+Latin II,World Language,No,3,10-12;Advanced Latin with translation of classical texts. Deep grammar study. Excellent for pre-law and linguistics.
+
+Art I,Visual Arts,No,1,9-12;Introduction to visual arts including drawing, painting, and design. Explore various media. Foundation for all art courses.
+Art II,Visual Arts,No,2,10-12;Continued art study with focus on personal style development. Advanced techniques. Builds portfolio for college.
+Art III,Visual Arts,No,3,11-12;Advanced art with independent projects. Portfolio development emphasis. For serious art students.
+AP Art History,Visual Arts,Yes,4,10-12;College-level survey of art history from prehistoric to contemporary. Critical analysis of artwork. Great for art and humanities majors.
+AP Studio Art: Drawing,Visual Arts,Yes,4,11-12;College-level portfolio in drawing. Create 24-piece portfolio. Demonstrates artistic excellence to colleges.
+AP Studio Art: 2D Design,Visual Arts,Yes,4,11-12;Portfolio in graphic design, photography, and digital art. Shows design thinking. Great for design majors.
+AP Studio Art: 3D Design,Visual Arts,Yes,4,11-12;Portfolio in sculpture, ceramics, and 3D work. Demonstrates spatial creativity. Excellent for architecture and 3D design.
+Ceramics I,Visual Arts,No,2,9-12;Introduction to pottery and ceramic techniques. Hands-on wheel throwing and hand building. Develops craftsmanship.
+Ceramics II,Visual Arts,No,2,10-12;Advanced ceramics with independent projects. Glaze experimentation. Builds advanced pottery skills.
+Sculpture,Visual Arts,No,2,9-12;Three-dimensional art using various materials. Spatial problem solving. Great for architecture interests.
+Photography I,Visual Arts,No,1,9-12;Introduction to digital photography and composition. Learn camera techniques and editing. Foundation for visual media careers.
+Photography II,Visual Arts,No,2,10-12;Advanced photography with portfolio development. Artistic expression through images. Strong preparation for media careers.
+Digital Art & Design,Visual Arts,No,2,9-12;Computer-based art using design software. Graphic design fundamentals. Essential for digital media careers.
+IB Visual Arts I,Visual Arts,Yes,4,11;First year IB art with studio practice and art history. Portfolio development. Part of IB Diploma.
+IB Visual Arts II,Visual Arts,Yes,4,12;Second year IB art with exhibition. Completes IB art requirement. Highest level art course.
+
+Band,Performing Arts,No,2,9-12;Instrumental music ensemble with performances. Develop musicianship and teamwork. Concert and marching band opportunities.
+Orchestra,Performing Arts,No,2,9-12;String ensemble with regular performances. Classical and contemporary music. Develops ensemble skills.
+Choir,Performing Arts,No,2,9-12;Vocal music ensemble with concerts and competitions. Part singing and performance. Develops vocal technique.
+AP Music Theory,Performing Arts,Yes,4,10-12;College-level music theory and composition. Ear training and analysis. Essential for music majors.
+Theatre I,Performing Arts,No,1,9-12;Introduction to acting and theatre production. Performance opportunities. Builds confidence and creativity.
+Theatre II,Performing Arts,No,2,10-12;Advanced acting techniques and performance. Larger roles in productions. Develops stage presence.
+Theatre III,Performing Arts,No,3,11-12;Advanced theatre with leadership roles. Directing and production work. For serious theatre students.
+Theatre IV,Performing Arts,No,3,12;Senior-level theatre with mentorship opportunities. Lead roles and student directing. Capstone for theatre pathway.
+Technical Theatre I,Performing Arts,No,2,9-12;Introduction to stagecraft, lighting, and sound. Behind-the-scenes production. Great for technical interests.
+Technical Theatre II,Performing Arts,No,2,10-12;Advanced technical skills in theatre production. Design and build sets. Develops engineering and design skills.
+Technical Theatre III,Performing Arts,No,3,11-12;Master-level technical theatre with design projects. Leadership in production crews. Preparation for theatre tech careers.
+IB Theatre I,Performing Arts,Yes,4,11;First year IB theatre with performance and analysis. Global theatre perspectives. Part of IB Diploma.
+IB Theatre II,Performing Arts,Yes,4,12;Second year IB theatre completing the program. Original theatre creation. Highest level theatre course.
+Theatre Appreciation,Performing Arts,No,1,9-12;Survey of theatre history and dramatic literature. Attend and analyze productions. Fulfills fine arts requirement.
+Costume Design I,Performing Arts,No,2,9-12;Design and create theatrical costumes. Sewing and historical research. Combines art and theatre.
+Theatrical Makeup,Performing Arts,No,1,9-12;Stage makeup techniques for theatre. Special effects and character design. Useful skill for performance.
+
+Survey of Agriculture Systems,Career Studies,No,2,9-12;Introduction to agriculture industry and careers. Explore plant and animal science. Foundation for ag pathway.
+Agribusiness Management,Career Studies,No,2,10-12;Agricultural business principles and economics. Farm and ranch management. Prepares for agricultural careers.
+CASE Animal Science,Career Studies,No,3,10-12;Curriculum for Agricultural Science Education program in animal science. Hands-on animal management. For veterinary interests.
+Veterinary Science,Career Studies,No,3,11-12;Introduction to veterinary medicine and animal care. Clinical skills and animal health. Preparation for vet tech and DVM programs.
+Food Safety & Nutrition,Career Studies,No,2,9-12;Food handling safety and nutritional science. ServSafe certification. Foundation for culinary pathway.
+Culinary Arts I,Career Studies,No,2,10-12;Basic cooking techniques and kitchen management. Commercial food preparation. Start of culinary career path.
+Culinary Arts II,Career Studies,No,3,11-12;Advanced culinary techniques and menu planning. Restaurant operations. Preparation for culinary careers.
+AP Computer Science Principles,Career Studies,Yes,3,9-12;Introduction to computer science concepts and programming. Accessible coding course. Great for all students, not just tech majors.
+AP Computer Science A,Career Studies,Yes,5,10-12;College-level Java programming. Advanced algorithms and data structures. Essential for computer science majors.
+Programming I: Exploration of Coding,Career Studies,No,2,9-12;Introduction to multiple programming languages. Basic coding concepts. Foundation for tech careers.
+Programming II: Coding & Game Design,Career Studies,No,3,10-12;Game development and intermediate programming. Create working games. Engaging way to learn coding.
+Programming III: Advanced Programming,Career Studies,No,4,11-12;Advanced software development projects. Professional coding practices. Strong preparation for CS degree.
+Robotics I,Career Studies,No,2,9-12;Introduction to robotics and automation. Build and program robots. STEM competition preparation.
+Robotics II,Career Studies,No,3,10-12;Advanced robotics with complex challenges. Competition robotics. Engineering and programming integration.
+Robotics III,Career Studies,No,4,11-12;Master-level robotics with independent projects. Mentor younger students. Excellent for engineering majors.
+Cybersecurity I,Career Studies,No,2,9-12;Introduction to network security and ethical hacking. Cyber defense basics. Growing career field.
+Cybersecurity II,Career Studies,No,3,10-12;Advanced cybersecurity with hands-on labs. Security analysis and response. High-demand career skills.
+Cybersecurity III,Career Studies,No,4,11-12;Expert cybersecurity with certification preparation. Penetration testing and forensics. Professional-level skills.
+Introduction to Engineering (PLTW),Career Studies,No,3,9-12;Project Lead The Way engineering fundamentals. Design process and CAD. Foundation for engineering pathway.
+Principles of Engineering (PLTW),Career Studies,No,3,10-12;Advanced PLTW engineering concepts. Mechanics and electronics. Core of engineering pathway.
+Engineering Design & Development,Career Studies,No,4,11-12;Capstone PLTW engineering project. Year-long independent design. Excellent college preparation.
+Digital Electronics,Career Studies,No,3,11-12;Circuit design and digital logic. Hands-on electronics projects. Great for electrical engineering.
+Drafting & Design,Career Studies,No,2,9-12;Technical drawing and CAD fundamentals. Blueprint reading and creation. Foundation for architecture and engineering.
+Architectural CAD I,Career Studies,No,2,10-12;Computer-aided design for architecture. Residential design projects. Start of architecture pathway.
+Architectural CAD II,Career Studies,No,3,11-12;Advanced architectural design with commercial projects. Building codes and systems. Strong architecture preparation.
+Architectural CAD Lab,Career Studies,No,3,11-12;Independent architectural design projects. Portfolio development. Advanced architecture experience.
+Unmanned Aerial Systems I,Career Studies,No,2,9-12;Introduction to drone technology and flight. FAA Part 107 preparation. Growing career field.
+Unmanned Aerial Systems II,Career Studies,No,3,10-12;Advanced drone operations and applications. Commercial drone use. Industry certification.
+Unmanned Aerial Systems III,Career Studies,No,4,11-12;Expert drone operations with independent projects. Aerial photography and surveying. Professional-level skills.
+NNDCC/Navy JROTC I,Career Studies,No,2,9-12;Naval science and leadership fundamentals. Military structure and history. Develops discipline and leadership.
+NNDCC/Navy JROTC II,Career Studies,No,2,10-12;Continued naval science with increased responsibility. Navigation and seamanship. Preparation for military service.
+NNDCC/Navy JROTC III,Career Studies,No,3,11-12;Advanced JROTC with leadership roles. Community service and drill team. Strong character development.
+NNDCC/Navy JROTC IV,Career Studies,No,3,12;Senior JROTC leadership and mentorship. Command positions. Excellent for military academy applicants.
+EAST I,Career Studies,No,2,9-12;Education Accelerated by Service and Technology. Project-based learning with community impact. Develops problem-solving.
+EAST II,Career Studies,No,2,10-12;Advanced EAST projects with technology integration. Community partnerships. Real-world application of skills.
+EAST III,Career Studies,No,3,11-12;Leadership in EAST program with complex projects. Mentor younger students. Entrepreneurial thinking.
+EAST IV,Career Studies,No,3,12;Senior EAST leadership and legacy projects. Program management. Excellent college application material.
+Family & Consumer Science,Career Studies,No,2,9-12;Life skills including cooking, sewing, and family dynamics. Personal development. Practical knowledge for independent living.
+Child Growth & Development,Career Studies,No,2,10-12;Study of child development from birth through adolescence. Parenting and education concepts. Foundation for education careers.
+Child Care Guidance & Management,Career Studies,No,3,11-12;Hands-on childcare experience in preschool lab. Classroom management. Preparation for teaching careers.
+Introduction to Education,Career Studies,No,2,10-12;Explore teaching as a career. Classroom observations and practice. Start of education pathway.
+Education Technology,Career Studies,No,2,10-12;Technology tools for education. Digital classroom management. Modern teaching methods.
+Foundations of Health Care,Career Studies,No,2,9-12;Introduction to healthcare careers and medical terminology basics. CPR certification. Foundation for health science pathway.
+Medical Terminology,Career Studies,No,3,10-12;Medical vocabulary and body systems. Essential for all healthcare careers. College credit available.
+Principles of Sports Medicine,Career Studies,No,3,10-12;Athletic training and injury prevention. Sports health careers. Hands-on with athletic teams.
+Sports Injury Assessment,Career Studies,No,3,11-12;Evaluation and treatment of athletic injuries. Advanced athletic training. Preparation for athletic training degree.
+Exercise Science,Career Studies,No,3,11-12;Fitness principles and program design. Personal training concepts. Great for kinesiology majors.
+Life & Fitness Nutrition,Career Studies,No,2,10-12;Nutrition science and healthy living. Diet analysis and planning. Valuable life skills.
+Chemistry of Foods,Career Studies,No,3,11-12;Food science and culinary chemistry. Recipe development. Combines science and cooking.
+Advanced Nutrition & Dietetics,Career Studies,No,3,11-12;Clinical nutrition and dietary planning. Sports nutrition. Preparation for dietetics degree.
+Media Communications,Career Studies,No,2,9-12;Introduction to mass media and communication. Broadcasting and journalism basics. Foundation for media careers.
+Audio/Video Production I,Career Studies,No,2,9-12;Video production and editing fundamentals. Create multimedia projects. Start of media production pathway.
+Audio/Video Production II,Career Studies,No,3,10-12;Advanced video production with professional techniques. Documentary and commercial work. Strong media career preparation.
+Advanced Audio/Video Production,Career Studies,No,4,11-12;Professional-level media production. Independent projects and portfolio. Broadcast journalism preparation.
+Advertising & Graphic Design I,Career Studies,No,2,9-12;Graphic design principles and Adobe Creative Suite. Logo and layout design. Foundation for design careers.
+Advertising & Graphic Design II,Career Studies,No,3,10-12;Advanced design with client projects. Advertising campaigns. Professional portfolio development.
+Advertising & Graphic Design III,Career Studies,No,4,11-12;Expert design with business applications. Marketing and branding. Agency-level work.
+Survey of Business,Career Studies,No,2,9-12;Introduction to business principles and entrepreneurship. Foundation for business pathway. Explores various business careers.
+Digital Marketing,Career Studies,No,2,10-12;Online marketing and social media strategy. SEO and analytics. High-demand business skill.
+Marketing & Analytics,Career Studies,No,3,11-12;Data-driven marketing decisions. Consumer behavior and market research. Business intelligence skills.
+Marketing Business Enterprise,Career Studies,No,3,10-12;Run school store or business. Hands-on business experience. Entrepreneurship in action.
+Introduction to Supply Chain Logistics,Career Studies,No,3,11-12;Transportation and distribution systems. Global supply chain. Growing business field.
+Small Business Operations,Career Studies,No,3,11-12;Entrepreneurship and small business management. Business planning. Great for future business owners.
+Transportation & Distribution,Career Studies,No,3,11-12;Logistics and freight management. Supply chain operations. Career in logistics industry.
+
+Ignite Aviation - Air Mobility I,Ignite Professional Studies,Yes,4,11;Professional aviation training with FAA drone certification. Flight operations at Thaden Field. Career preparation in aviation industry.
+Ignite Aviation - Air Mobility II,Ignite Professional Studies,Yes,4,12;Advanced aviation with industry partnerships. Commercial pilot concepts. Direct pathway to aviation careers.
+Ignite Construction Management I,Ignite Professional Studies,Yes,4,11;Construction trades and project management. NCCER certification. Hands-on building projects.
+Ignite Construction Management II,Ignite Professional Studies,Yes,4,12;Advanced construction with internship experience. Building codes and estimating. Direct entry to construction industry.
+Ignite Culinary Arts I,Ignite Professional Studies,Yes,4,11;Professional culinary training at Brightwater. Restaurant kitchen experience. Industry certifications.
+Ignite Culinary Arts II,Ignite Professional Studies,Yes,4,12;Advanced culinary with practicum in restaurants. Menu development and management. Professional chef preparation.
+Ignite Digital Media I,Ignite Professional Studies,Yes,4,11;Professional media production and editing. Industry-standard equipment and software. Portfolio development.
+Ignite Digital Media II,Ignite Professional Studies,Yes,4,12;Advanced media projects with client work. Broadcasting and film production. Career-ready media skills.
+Ignite Education Innovation I,Ignite Professional Studies,Yes,3,11;Teaching experience in real classrooms. Education technology and methods. Start of teaching career.
+Ignite Education Innovation II,Ignite Professional Studies,Yes,3,12;Advanced teaching practicum with paraprofessional certification. Classroom management. Direct pathway to education degree.
+Ignite Global Business I,Ignite Professional Studies,Yes,4,11;Business operations with professional mentors. Entrepreneurship and marketing. Real business experience.
+Ignite Global Business II,Ignite Professional Studies,Yes,4,12;Advanced business with company internships. Leadership and management. Professional business preparation.
+Ignite Health Sciences I,Ignite Professional Studies,Yes,4,11;Clinical healthcare experience in medical settings. CNA and medical certifications. Healthcare career preparation.
+Ignite Health Sciences II,Ignite Professional Studies,Yes,5,12;Advanced healthcare with specialized certifications. EMT, phlebotomy, or pharmacy tech. Direct entry to healthcare careers.
+Ignite Industrial Design I,Ignite Professional Studies,Yes,4,11;Manufacturing and industrial technology. CNC machining and robotics. Advanced manufacturing careers.
+Ignite Industrial Design II,Ignite Professional Studies,Yes,4,12;Advanced manufacturing with industry internships. Quality control and production. Engineering technology preparation.
+Ignite Technology I,Ignite Professional Studies,Yes,4,11;Information technology with industry certifications. Network administration and programming. IT career preparation.
+Ignite Technology II,Ignite Professional Studies,Yes,5,12;Advanced IT with professional internships. Cybersecurity and software development. Direct entry to tech careers.
+Ignite Visual Design & Branding I,Ignite Professional Studies,Yes,4,11;Professional graphic design with client projects. Adobe certification. Design agency experience.
+Ignite Visual Design & Branding II,Ignite Professional Studies,Yes,4,12;Advanced design with professional portfolio. Marketing and branding projects. Career-ready design skills.
+
+Personal & Professional Communication,Performing Arts,No,2,9-12;Public speaking and professional communication skills. Presentation techniques. Fulfills communication graduation requirement.
+Health,Physical Education,No,1,9-12;Personal health, wellness, and decision-making. Required for graduation. Essential life skills and health education.
+Physical Education,Physical Education,No,1,9-12;General physical fitness and lifetime sports. Required for graduation. Promotes healthy lifestyle habits.
+Team Sports,Physical Education,No,1,9-12;Various team sports and game strategies. Fitness through competition. Fun way to fulfill PE credit.
+Lifetime Fitness,Physical Education,No,1,9-12;Individual fitness and wellness activities. Personal fitness planning. Skills for lifelong health.
+Weight Training,Physical Education,No,1,9-12;Strength training and conditioning principles. Proper lifting techniques. Popular fitness option.
+Basketball (Athletics),Physical Education,No,2,9-12;Competitive basketball team with games and practices. Skills development and teamwork. Requires tryout.
+Football (Athletics),Physical Education,No,2,9-12;Competitive football team with games and practices. Strength and strategy. Requires tryout.
+Baseball (Athletics),Physical Education,No,2,9-12;Competitive baseball team with games and practices. Skills and teamwork. Spring sport requiring tryout.
+Softball (Athletics),Physical Education,No,2,9-12;Competitive softball team with games and practices. Skills and strategy. Spring sport requiring tryout.
+Soccer (Athletics),Physical Education,No,2,9-12;Competitive soccer team with games and practices. Endurance and teamwork. Fall or spring sport requiring tryout.
+Track & Field (Athletics),Physical Education,No,2,9-12;Competitive track and field with meets. Running, jumping, and throwing events. Spring sport.
