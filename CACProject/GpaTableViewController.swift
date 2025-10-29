@@ -10,8 +10,8 @@ import UIKit
 class GpaTableViewController: UITableViewController {
 
     var courses: [Course] = []
-    var totalCreditsEarned: Int = 0
-    var totalCreditHours: Int = 0
+    var totalCreditsEarned: Double = 0
+    var totalCreditHours: Double = 0
     
     @IBOutlet weak var gpaNavigationItem: UINavigationItem!
     override func viewDidLoad() {
@@ -21,8 +21,9 @@ class GpaTableViewController: UITableViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
+        courses.sort()
         for currCourse in courses{
-            totalCreditsEarned += currCourse.numCredits
+            totalCreditsEarned += Double((currCourse.numCredits))*currCourse.numCreditHours
             totalCreditHours += currCourse.numCreditHours
         }
         if(totalCreditHours != 0){
@@ -53,6 +54,18 @@ class GpaTableViewController: UITableViewController {
         if editingStyle == .delete {
             courses.remove(at: indexPath.row)
             tableView.deleteRows(at: [indexPath], with: .automatic)
+            
+            for currCourse in courses{
+                totalCreditsEarned += Double((currCourse.numCredits))*currCourse.numCreditHours
+                totalCreditHours += currCourse.numCreditHours
+            }
+            if(totalCreditHours != 0){
+                gpaNavigationItem.title = "GPA: \(Double(totalCreditsEarned)/Double(totalCreditHours))"
+            }else{
+                gpaNavigationItem.title = "GPA"
+            }
+            tableView.reloadData()
+            
         }
     }
     

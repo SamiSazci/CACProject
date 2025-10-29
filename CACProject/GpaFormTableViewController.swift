@@ -18,6 +18,8 @@ class GpaFormTableViewController: UITableViewController {
     
     @IBOutlet weak var numCreditHoursTextField: UITextField!
     
+    @IBOutlet weak var classYearTextField: UITextField!
+    
     init?(coder: NSCoder, course: Course?) {
         self.course = course
         super.init(coder: coder)
@@ -33,6 +35,7 @@ class GpaFormTableViewController: UITableViewController {
         courseNameTextField.text = course.courseName
         numCreditsEarnedTextField.text = "\(course.numCredits)"
         numCreditHoursTextField.text = "\(course.numCreditHours)"
+        classYearTextField.text = "\(course.classYear)"
         
     }
     
@@ -49,7 +52,9 @@ class GpaFormTableViewController: UITableViewController {
             let creditsEarnedText = numCreditsEarnedTextField.text,
             let creditsEarned = Int(creditsEarnedText),
             let creditHoursText = numCreditHoursTextField.text,
-            let creditHours = Int(creditHoursText)
+            let creditHours = Double(creditHoursText),
+            let courseYearText = classYearTextField.text,
+            let courseYear = Int(courseYearText)
         else {
             print("Invalid input")
             return
@@ -57,7 +62,7 @@ class GpaFormTableViewController: UITableViewController {
 
         course = Course(courseName: courseName,
                             numCredits: creditsEarned,
-                            numCreditHours: creditHours)
+                        numCreditHours: creditHours, classYear: courseYear)
         performSegue(withIdentifier: "UnwindToGpaTable", sender: self)
     }
 

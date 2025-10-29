@@ -7,8 +7,13 @@
 
 import Foundation
 
-struct Course{
+struct Course: Comparable{
     var courseName: String
     var numCredits: Int
-    var numCreditHours: Int
+    var numCreditHours: Double
+    var classYear: Int
+    
+    static func < (lhs: Course, rhs: Course) -> Bool {
+        return lhs.classYear < rhs.classYear
+        }
 }

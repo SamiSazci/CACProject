@@ -13,6 +13,7 @@ class GpaTableViewCell: UITableViewCell {
     
     @IBOutlet weak var creditEarnedAndHoursLabel: UILabel!
     
+    @IBOutlet weak var classYearLabel: UILabel!
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
@@ -27,6 +28,7 @@ class GpaTableViewCell: UITableViewCell {
     func update(with course: Course){
         courseNameLabel.text = course.courseName
         creditEarnedAndHoursLabel.text = "Credits Earned: \(course.numCredits)      Credit Hours: \(course.numCreditHours)"
+        classYearLabel.text = "Year: \(course.classYear)"
     }
 
 }
