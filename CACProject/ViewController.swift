@@ -16,6 +16,13 @@ class ViewController: UIViewController {
         categorize()
         courses[0].points += 1
         print(courses[0].points)
+        let gradientLayer = CAGradientLayer()
+            gradientLayer.frame = view.bounds
+            gradientLayer.colors = [
+                UIColor(red: 0.95, green: 0.97, blue: 1.0, alpha: 1.0).cgColor,
+                UIColor.white.cgColor
+            ]
+            view.layer.insertSublayer(gradientLayer, at: 0)
     }
     
     var courses : [Class] = []
