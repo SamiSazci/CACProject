@@ -16,6 +16,7 @@ class StartQuizViewController: UIViewController {
     var shouldShowResult = false
     var accessClass : [Class] = []
     override func viewDidLoad() {
+        print("Recieve \(accessClass.count) courses")
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
@@ -26,9 +27,11 @@ class StartQuizViewController: UIViewController {
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        let destinationVC2 = storyboard!.instantiateViewController(withIdentifier: "Result") as! ResultTableViewController
-        destinationVC2.courses = accessClass
-        self.present(destinationVC2, animated: true, completion: nil)
+        if segue.identifier == "Result"{
+            if let destinationVC = segue.destination as? ResultTableViewController {
+                destinationVC.courses = accessClass
+            }
+        }
     }
     
     // MARK: - Navigation

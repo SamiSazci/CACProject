@@ -10,8 +10,8 @@ import UIKit
 class courseViewController: UIViewController {
     
     
-    @IBOutlet var commandLabel: UILabel!
-    @IBOutlet var takeQuizButton: UIButton!
+//    @IBOutlet var commandLabel: UILabel!
+//    @IBOutlet var takeQuizButton: UIButton!
     @IBOutlet var gradeInstructLabel: UILabel!
     @IBOutlet var gradePopUp: UIButton!
     @IBOutlet var weightLabel: UILabel!
@@ -34,7 +34,9 @@ class courseViewController: UIViewController {
     var viewController : ViewController =  ViewController()
     var accessClass : [Class] = []
     
+    @IBOutlet var whatLabel: UILabel!
     @IBOutlet var collection: UIStackView!
+    @IBOutlet var nextGreeenButton: UIButton!
     
     @IBOutlet var problemSwitch: UISwitch!
     @IBOutlet var comSwitch: UISwitch!
@@ -54,14 +56,12 @@ class courseViewController: UIViewController {
     @IBOutlet var nonSkillCollection: UIStackView!
     func setUp(){
         gradeInstructLabel.isHidden = false
-        gradePopUp.isHidden = false
-        weightLabel.isHidden = false
-        weightPopUp.isHidden = false
         majorLabel.isHidden = true
         majorPopUp.isHidden = true
         submitButtonOutlet.isHidden = true
-        saveButtonOutlet.isHidden = false
+        whatLabel.isHidden = true
         collection.isHidden = true
+        nextGreeenButton.isHidden = true
         skillCollection.isHidden = true
         nonSkillCollection.isHidden = true
     }
@@ -107,7 +107,9 @@ class courseViewController: UIViewController {
         weightLabel.isHidden = true
         weightPopUp.isHidden = true
         saveButtonOutlet.isHidden = true
+        whatLabel.isHidden = false
         collection.isHidden = false
+        nextGreeenButton.isHidden = false
         
     }
     @IBAction func nextAction(_ sender: Any) {
@@ -193,7 +195,9 @@ class courseViewController: UIViewController {
                 }
             }
         }
+        whatLabel.isHidden = true
         collection.isHidden = true
+        nextGreeenButton.isHidden = true
         majorLabel.isHidden = false
         majorPopUp.isHidden = false
         submitButtonOutlet.isHidden = false
@@ -348,8 +352,10 @@ class courseViewController: UIViewController {
         }
         print(accessClass)
         nonSkillCollection.isHidden = true
-        let top15 = accessClass.sorted{$0.points > $1.points}.prefix(15)
-        print("\n    \(top15)")
+        let destinationVC = storyboard!.instantiateViewController(withIdentifier: "Course Rec") as! StartQuizViewController
+        destinationVC.shouldShowResult = true
+        destinationVC.accessClass = accessClass
+        self.present(destinationVC, animated: true, completion: nil)
     }
     
     
